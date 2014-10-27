@@ -51,7 +51,7 @@
 		AAD072E719EDAFEC0091CD0F /* Lions & TigerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Lions & TigerTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AAD072EC19EDAFEC0091CD0F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AAD072ED19EDAFEC0091CD0F /* Lions___TigerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lions___TigerTests.swift"; sourceTree = "<group>"; };
-		AAD072F919EDB2330091CD0F /* Tiger.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Tiger.swift; sourceTree = "<group>"; };
+		AAD072F919EDB2330091CD0F /* Tiger.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Tiger.swift; path = ../Tiger.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,7 +75,6 @@
 		AAD072C919EDAFEC0091CD0F = {
 			isa = PBXGroup;
 			children = (
-				AAD072F919EDB2330091CD0F /* Tiger.swift */,
 				AAD072D419EDAFEC0091CD0F /* Lions & Tiger */,
 				AAD072EA19EDAFEC0091CD0F /* Lions & TigerTests */,
 				AAD072D319EDAFEC0091CD0F /* Products */,
@@ -97,6 +96,7 @@
 				AAD072D719EDAFEC0091CD0F /* AppDelegate.swift */,
 				AAD072D919EDAFEC0091CD0F /* ViewController.swift */,
 				AAD072DB19EDAFEC0091CD0F /* Main.storyboard */,
+				AAD072F919EDB2330091CD0F /* Tiger.swift */,
 				AAD072DE19EDAFEC0091CD0F /* Images.xcassets */,
 				AAD072D519EDAFEC0091CD0F /* Supporting Files */,
 			);
